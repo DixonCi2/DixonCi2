@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DixonCi2
 - 👀 I’m interested in NextJS and NestJS, GraphQL, WebSockets, Devops
-- 🌱 I’m currently learning AWS, IOT
+- 🌱 I’m currently learning AWS, IOT, Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
